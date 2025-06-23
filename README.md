@@ -20,4 +20,3 @@
              
 ```
 
-A curated collection of tools and apps for ethically hacking and testing common devices. For educational and security research use.
